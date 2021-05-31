@@ -1,0 +1,36 @@
+body {
+    background-color: #cfb5b2;
+    text-align: center;
+}
+
+input {
+    margin: 100px auto 100px;
+    width: 350px;
+    height: 40px;
+    display: block;
+    text-align: center;
+}
+
+#output {
+    margin-top: 30px;
+    width: 100px;
+    background: blue;
+    margin: 100px auto 100px;
+    /*keep the counting box at the center*/
+    border-radius: 30px;
+}
+
+#btn {
+    width: 350px;
+    height: 80px;
+    color: #fff;
+    background-color: red;
+    border-style: none;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+
+h1 {
+    color: #000;
+    margin-top: 30px;
+}
